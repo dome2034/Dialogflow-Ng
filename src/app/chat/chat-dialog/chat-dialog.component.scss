@@ -21,3 +21,12 @@
 .message.from + .message.from {
 margin-top: -10px;
 }
+input:focus {
+    outline: none !important;
+    border-color: rgba(7, 161, 46, 0.459);
+}
+.button-color {
+    background-color: rgba(0, 228, 57, 0.459);
+    border-color: rgba(0, 228, 57, 0.459);
+}
+
